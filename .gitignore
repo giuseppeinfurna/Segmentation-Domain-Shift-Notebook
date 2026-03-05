@@ -1,0 +1,8 @@
+*.tar.gz
+*.png
+annotations/
+images/
+masks/
+venv/
+oxford_pet/
+best_model.pth
